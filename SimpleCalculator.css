@@ -1,0 +1,29 @@
+.container{
+    width: 300px;
+    height: 200px;
+    border: 3px solid black;
+
+}
+#displayInput{
+    width: 100%;
+    height: 2em;
+    /*margin: 5px;*/
+    /*padding: 0.2em;*/
+    text-align: right;
+    box-sizing: border-box;
+
+}
+.buttons{
+    display: table;
+    margin: 5px;
+}
+.symbol{
+    width: 25%;
+    /*margin:5px;*/
+    padding: 5px;
+    border: 2px groove dodgerblue;
+    display: table-cell;
+}
+.display{
+    padding: 5px;
+}

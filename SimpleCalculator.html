@@ -2,9 +2,36 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Calculator</title>
+    <link rel="stylesheet" href="SimpleCalculator.css">
 </head>
 <body>
+<h1>SimpleCalculator</h1>
+<div class="container">
+    <div class="display">
+        <input type="text" id="displayInput">
+    </div>
+    <div class="buttons">
+        <input type="button" class="symbol" value="1" onclick="clickBtn1(this.value)">
+        <input type="button" class="symbol" value="2">
+        <input type="button" class="symbol" value="3">
+        <input type="button" class="symbol" value="+">
+        <input type="button" class="symbol" value="4">
+        <input type="button" class="symbol" value="5">
+        <input type="button" class="symbol" value="6">
+        <input type="button" class="symbol" value="-">
+        <input type="button" class="symbol" value="7">
+        <input type="button" class="symbol" value="8">
+        <input type="button" class="symbol" value="9">
+        <input type="button" class="symbol" value="*">
+        <input type="button" class="symbol" value="C">
+        <input type="button" class="symbol" value="0">
+        <input type="button" class="symbol" value="=">
+        <input type="button" class="symbol" value="/">
+
+    </div>
+</div>
 
 </body>
+<script src="SimpleCalculator.js"></script>
 </html>
