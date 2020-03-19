@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="262a4f9b-096c-4bb9-9716-26adfef4200f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BaiTapMayTinhDonGian.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCalculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleCalculator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,10 +44,21 @@
       <option name="presentableId" value="Default" />
       <updated>1584609535854</updated>
       <workItem from="1584609537468" duration="28000" />
+      <workItem from="1584620178206" duration="4551000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="90" key="CommitChangelistDialog2" timestamp="1584624915521">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="1920" y="90" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1584624915521" />
+    <state x="1913" y="0" width="654" height="991" key="dock-window-1" timestamp="1584623924135">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="1913" y="0" width="654" height="991" key="dock-window-1/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1584623924135" />
   </component>
 </project>
